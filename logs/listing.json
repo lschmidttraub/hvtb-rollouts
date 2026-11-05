@@ -1,6 +1,6 @@
 {
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L3_confessions_reasoning_dropped.eval": {
-    "eval_id": "6GAZUrdoy7Ua8ZVhZCW5SS",
+    "eval_id": "9TYSWnP4zi2sHMZUD959xN",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L3_confessions_reasoning_dropped",
     "task_id": "hvtb_qwen3.8-flash-next_L3_confessions_reasoning_dropped",
@@ -9,8 +9,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:37.726094+00:00",
-    "completed_at": "2026-11-05T16:20:37.726094+00:00",
+    "started_at": "2026-11-05T16:47:11.425332+00:00",
+    "completed_at": "2026-11-05T16:47:11.425332+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.04941860465116279,
@@ -18,7 +18,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L3_episodes.eval": {
-    "eval_id": "9YZufTpvYomJTuDJmBRdBG",
+    "eval_id": "dzoiYLNY5ELjkZz8EKB7nS",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L3_episodes",
     "task_id": "hvtb_qwen3.8-flash-next_L3_episodes",
@@ -27,8 +27,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:35.961960+00:00",
-    "completed_at": "2026-11-05T16:20:35.961960+00:00",
+    "started_at": "2026-11-05T16:47:09.545472+00:00",
+    "completed_at": "2026-11-05T16:47:09.545472+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.9885057471264368,
@@ -36,7 +36,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L2_confessions_reasoning_dropped.eval": {
-    "eval_id": "YiLq67vp4jEUQTgmtYpSFe",
+    "eval_id": "XHHqUbrYQU2iPys3KeYvYd",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L2_confessions_reasoning_dropped",
     "task_id": "hvtb_qwen3.8-flash-next_L2_confessions_reasoning_dropped",
@@ -45,8 +45,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:30.328863+00:00",
-    "completed_at": "2026-11-05T16:20:30.328863+00:00",
+    "started_at": "2026-11-05T16:47:04.768740+00:00",
+    "completed_at": "2026-11-05T16:47:04.768740+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.0484048404840484,
@@ -54,7 +54,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L2_episodes.eval": {
-    "eval_id": "G6cvyZByJbJwap9nei7PGA",
+    "eval_id": "giBQh4XnwLeS2s8Kfou5f3",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L2_episodes",
     "task_id": "hvtb_qwen3.8-flash-next_L2_episodes",
@@ -63,8 +63,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:28.843124+00:00",
-    "completed_at": "2026-11-05T16:20:28.843124+00:00",
+    "started_at": "2026-11-05T16:47:03.541429+00:00",
+    "completed_at": "2026-11-05T16:47:03.541429+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.9770114942528736,
@@ -72,7 +72,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L1_confessions_reasoning_dropped.eval": {
-    "eval_id": "DCXKfm3Eqp48LKMAKKoFLQ",
+    "eval_id": "BALYs4ALWrocUbDy8gAMEc",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L1_confessions_reasoning_dropped",
     "task_id": "hvtb_qwen3.8-flash-next_L1_confessions_reasoning_dropped",
@@ -81,8 +81,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:24.475791+00:00",
-    "completed_at": "2026-11-05T16:20:24.475791+00:00",
+    "started_at": "2026-11-05T16:46:58.511557+00:00",
+    "completed_at": "2026-11-05T16:46:58.511557+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.062340966921119595,
@@ -90,7 +90,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L1_episodes.eval": {
-    "eval_id": "YRgHsP4DobM9HHLzHF9tH7",
+    "eval_id": "ctBnxH7Y3ruYtx2Awx3bJs",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L1_episodes",
     "task_id": "hvtb_qwen3.8-flash-next_L1_episodes",
@@ -99,8 +99,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:23.387684+00:00",
-    "completed_at": "2026-11-05T16:20:23.387684+00:00",
+    "started_at": "2026-11-05T16:46:57.461335+00:00",
+    "completed_at": "2026-11-05T16:46:57.461335+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.9655172413793104,
@@ -108,7 +108,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L0_confessions_reasoning_dropped.eval": {
-    "eval_id": "Qck244mysAZZhnHRj3fFif",
+    "eval_id": "jaramcjmE6XwqkvKG5pxUs",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L0_confessions_reasoning_dropped",
     "task_id": "hvtb_qwen3.8-flash-next_L0_confessions_reasoning_dropped",
@@ -117,8 +117,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:11.392148+00:00",
-    "completed_at": "2026-11-05T16:20:11.392148+00:00",
+    "started_at": "2026-11-05T16:46:48.630939+00:00",
+    "completed_at": "2026-11-05T16:46:48.630939+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.1002906976744186,
@@ -126,7 +126,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L0_episodes.eval": {
-    "eval_id": "YSu4kcJFuf3fKKirKTR9tG",
+    "eval_id": "KgPBgQCayigyrGKhjVnLzH",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_L0_episodes",
     "task_id": "hvtb_qwen3.8-flash-next_L0_episodes",
@@ -135,8 +135,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:20:08.642368+00:00",
-    "completed_at": "2026-11-05T16:20:08.642368+00:00",
+    "started_at": "2026-11-05T16:46:46.379525+00:00",
+    "completed_at": "2026-11-05T16:46:46.379525+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.9885057471264368,
@@ -144,7 +144,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_ablation_confessions.eval": {
-    "eval_id": "8BnvCbsUXFTWt5gcatgww5",
+    "eval_id": "cF9pZoFRSAuLGYwfa3NBjb",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_ablation_confessions",
     "task_id": "hvtb_qwen3.8-flash-next_ablation_confessions",
@@ -153,8 +153,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:19:58.187389+00:00",
-    "completed_at": "2026-11-05T16:19:58.187389+00:00",
+    "started_at": "2026-11-05T16:46:39.049421+00:00",
+    "completed_at": "2026-11-05T16:46:39.049421+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.3485309017223911,
@@ -162,7 +162,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_ablation_confessions_reasoning_dropped.eval": {
-    "eval_id": "CvFbmxfwABkygvRZiRtjQ9",
+    "eval_id": "MxS4EiU5iKdVR2RmsJ3ZNe",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_ablation_confessions_reasoning_dropped",
     "task_id": "hvtb_qwen3.8-flash-next_ablation_confessions_reasoning_dropped",
@@ -171,8 +171,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:19:48.250133+00:00",
-    "completed_at": "2026-11-05T16:19:48.250133+00:00",
+    "started_at": "2026-11-05T16:46:31.861347+00:00",
+    "completed_at": "2026-11-05T16:46:31.861347+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.18872549019607843,
@@ -180,7 +180,7 @@
     }
   },
   "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_ablation_episodes.eval": {
-    "eval_id": "jdzBtfL6fkYVW6xu54Heoy",
+    "eval_id": "CFHGiWyUSPibDKvUsoREtK",
     "run_id": "",
     "task": "hvtb_qwen3.8-flash-next_ablation_episodes",
     "task_id": "hvtb_qwen3.8-flash-next_ablation_episodes",
@@ -189,8 +189,8 @@
     "status": "success",
     "invalidated": false,
     "model": "qwen3.8-flash-next",
-    "started_at": "2026-11-05T16:19:46.239102+00:00",
-    "completed_at": "2026-11-05T16:19:46.239102+00:00",
+    "started_at": "2026-11-05T16:46:29.539923+00:00",
+    "completed_at": "2026-11-05T16:46:29.539923+00:00",
     "primary_metric": {
       "name": "mean",
       "value": 0.9770114942528736,
