@@ -1,0 +1,1010 @@
+{
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L3_confessions_reasoning_dropped.eval": {
+    "eval_id": "6GAZUrdoy7Ua8ZVhZCW5SS",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L3_confessions_reasoning_dropped",
+    "task_id": "hvtb_qwen3.8-flash-next_L3_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:37.726094+00:00",
+    "completed_at": "2026-11-05T16:20:37.726094+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.04941860465116279,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L3_episodes.eval": {
+    "eval_id": "9YZufTpvYomJTuDJmBRdBG",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L3_episodes",
+    "task_id": "hvtb_qwen3.8-flash-next_L3_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:35.961960+00:00",
+    "completed_at": "2026-11-05T16:20:35.961960+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L2_confessions_reasoning_dropped.eval": {
+    "eval_id": "YiLq67vp4jEUQTgmtYpSFe",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L2_confessions_reasoning_dropped",
+    "task_id": "hvtb_qwen3.8-flash-next_L2_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:30.328863+00:00",
+    "completed_at": "2026-11-05T16:20:30.328863+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.0484048404840484,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L2_episodes.eval": {
+    "eval_id": "G6cvyZByJbJwap9nei7PGA",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L2_episodes",
+    "task_id": "hvtb_qwen3.8-flash-next_L2_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:28.843124+00:00",
+    "completed_at": "2026-11-05T16:20:28.843124+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L1_confessions_reasoning_dropped.eval": {
+    "eval_id": "DCXKfm3Eqp48LKMAKKoFLQ",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L1_confessions_reasoning_dropped",
+    "task_id": "hvtb_qwen3.8-flash-next_L1_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:24.475791+00:00",
+    "completed_at": "2026-11-05T16:20:24.475791+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.062340966921119595,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L1_episodes.eval": {
+    "eval_id": "YRgHsP4DobM9HHLzHF9tH7",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L1_episodes",
+    "task_id": "hvtb_qwen3.8-flash-next_L1_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:23.387684+00:00",
+    "completed_at": "2026-11-05T16:20:23.387684+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9655172413793104,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L0_confessions_reasoning_dropped.eval": {
+    "eval_id": "Qck244mysAZZhnHRj3fFif",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L0_confessions_reasoning_dropped",
+    "task_id": "hvtb_qwen3.8-flash-next_L0_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:11.392148+00:00",
+    "completed_at": "2026-11-05T16:20:11.392148+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1002906976744186,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_L0_episodes.eval": {
+    "eval_id": "YSu4kcJFuf3fKKirKTR9tG",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_L0_episodes",
+    "task_id": "hvtb_qwen3.8-flash-next_L0_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:20:08.642368+00:00",
+    "completed_at": "2026-11-05T16:20:08.642368+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_ablation_confessions.eval": {
+    "eval_id": "8BnvCbsUXFTWt5gcatgww5",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_ablation_confessions",
+    "task_id": "hvtb_qwen3.8-flash-next_ablation_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:19:58.187389+00:00",
+    "completed_at": "2026-11-05T16:19:58.187389+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.3485309017223911,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_ablation_confessions_reasoning_dropped.eval": {
+    "eval_id": "CvFbmxfwABkygvRZiRtjQ9",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_ablation_confessions_reasoning_dropped",
+    "task_id": "hvtb_qwen3.8-flash-next_ablation_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:19:48.250133+00:00",
+    "completed_at": "2026-11-05T16:19:48.250133+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.18872549019607843,
+      "params": {}
+    }
+  },
+  "qwen3.8-flash-next/hvtb_qwen3.8-flash-next_ablation_episodes.eval": {
+    "eval_id": "jdzBtfL6fkYVW6xu54Heoy",
+    "run_id": "",
+    "task": "hvtb_qwen3.8-flash-next_ablation_episodes",
+    "task_id": "hvtb_qwen3.8-flash-next_ablation_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-11-05T16:19:46.239102+00:00",
+    "completed_at": "2026-11-05T16:19:46.239102+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L2_confessions.eval": {
+    "eval_id": "nP5dBhbeRpjsa8mZaAh2Eh",
+    "run_id": "",
+    "task": "hvtb_rip_L2_confessions",
+    "task_id": "hvtb_rip_L2_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:13:19.875950+00:00",
+    "completed_at": "2026-10-29T17:13:19.875950+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.16472868217054262,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L2_confessions_reasoning_dropped.eval": {
+    "eval_id": "cYakqXHihjPLVPW3eyHAE6",
+    "run_id": "",
+    "task": "hvtb_rip_L2_confessions_reasoning_dropped",
+    "task_id": "hvtb_rip_L2_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:13:14.732346+00:00",
+    "completed_at": "2026-10-29T17:13:14.732346+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2063953488372093,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L2_episodes.eval": {
+    "eval_id": "fbJxJk4wjZqr9mQteBgYLL",
+    "run_id": "",
+    "task": "hvtb_rip_L2_episodes",
+    "task_id": "hvtb_rip_L2_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:13:13.181571+00:00",
+    "completed_at": "2026-10-29T17:13:13.181571+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L0_confessions.eval": {
+    "eval_id": "EQtRksUuXAox8WJ8PRXffL",
+    "run_id": "",
+    "task": "hvtb_rh952_L0_confessions",
+    "task_id": "hvtb_rh952_L0_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:13:07.542668+00:00",
+    "completed_at": "2026-10-29T17:13:07.542668+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.20147058823529412,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L0_confessions_reasoning_dropped.eval": {
+    "eval_id": "gqQMye4SmSvbigXyqJLWGx",
+    "run_id": "",
+    "task": "hvtb_rh952_L0_confessions_reasoning_dropped",
+    "task_id": "hvtb_rh952_L0_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:13:02.983132+00:00",
+    "completed_at": "2026-10-29T17:13:02.983132+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2887254901960784,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L0_episodes.eval": {
+    "eval_id": "MTUJmBiDTaowRis58tM9dq",
+    "run_id": "",
+    "task": "hvtb_rh952_L0_episodes",
+    "task_id": "hvtb_rh952_L0_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:13:01.794268+00:00",
+    "completed_at": "2026-10-29T17:13:01.794268+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L1_confessions.eval": {
+    "eval_id": "eELaD7bEc8f9ee2dQ7kpbE",
+    "run_id": "",
+    "task": "hvtb_base_L1_confessions",
+    "task_id": "hvtb_base_L1_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:12:53.583170+00:00",
+    "completed_at": "2026-10-29T17:12:53.583170+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.10319767441860465,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L1_confessions_reasoning_dropped.eval": {
+    "eval_id": "kyvxXQb25sJri7ktEPBS9w",
+    "run_id": "",
+    "task": "hvtb_base_L1_confessions_reasoning_dropped",
+    "task_id": "hvtb_base_L1_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:12:46.165103+00:00",
+    "completed_at": "2026-10-29T17:12:46.165103+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.13905038759689922,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L1_episodes.eval": {
+    "eval_id": "MYQp9T2qAzKWavKFvjkm2b",
+    "run_id": "",
+    "task": "hvtb_base_L1_episodes",
+    "task_id": "hvtb_base_L1_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:12:43.613063+00:00",
+    "completed_at": "2026-10-29T17:12:43.613063+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L1_confessions.eval": {
+    "eval_id": "WMtQWqkaPrTKjoJm3yKsZS",
+    "run_id": "",
+    "task": "hvtb_rip_L1_confessions",
+    "task_id": "hvtb_rip_L1_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:12:37.765955+00:00",
+    "completed_at": "2026-10-29T17:12:37.765955+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.23934108527131784,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L1_confessions_reasoning_dropped.eval": {
+    "eval_id": "iCgds7KowgmqmEiVMLvJAP",
+    "run_id": "",
+    "task": "hvtb_rip_L1_confessions_reasoning_dropped",
+    "task_id": "hvtb_rip_L1_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:12:32.444572+00:00",
+    "completed_at": "2026-10-29T17:12:32.444572+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.3062015503875969,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L1_episodes.eval": {
+    "eval_id": "ndHNQCQzSHeCAn8dkVjCPp",
+    "run_id": "",
+    "task": "hvtb_rip_L1_episodes",
+    "task_id": "hvtb_rip_L1_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:12:30.964012+00:00",
+    "completed_at": "2026-10-29T17:12:30.964012+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L1_confessions.eval": {
+    "eval_id": "iPvRvTm5r877zvobExQMJH",
+    "run_id": "",
+    "task": "hvtb_rh952_L1_confessions",
+    "task_id": "hvtb_rh952_L1_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:12:25.777670+00:00",
+    "completed_at": "2026-10-29T17:12:25.777670+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.18725490196078431,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L1_confessions_reasoning_dropped.eval": {
+    "eval_id": "hJ2o5T4UhEt6XWsggGYy7h",
+    "run_id": "",
+    "task": "hvtb_rh952_L1_confessions_reasoning_dropped",
+    "task_id": "hvtb_rh952_L1_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:12:20.811696+00:00",
+    "completed_at": "2026-10-29T17:12:20.811696+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.24509803921568626,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L1_episodes.eval": {
+    "eval_id": "KxjCGwvwcFsRpA79kBHAG7",
+    "run_id": "",
+    "task": "hvtb_rh952_L1_episodes",
+    "task_id": "hvtb_rh952_L1_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:12:19.459378+00:00",
+    "completed_at": "2026-10-29T17:12:19.459378+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L0_confessions.eval": {
+    "eval_id": "jBMBR3EfpHkMoi7M8PczLy",
+    "run_id": "",
+    "task": "hvtb_base_L0_confessions",
+    "task_id": "hvtb_base_L0_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:12:09.130377+00:00",
+    "completed_at": "2026-10-29T17:12:09.130377+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1298449612403101,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L0_confessions_reasoning_dropped.eval": {
+    "eval_id": "hkpsjWRkd5i3HJ3HhyZeBK",
+    "run_id": "",
+    "task": "hvtb_base_L0_confessions_reasoning_dropped",
+    "task_id": "hvtb_base_L0_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:12:01.129005+00:00",
+    "completed_at": "2026-10-29T17:12:01.129005+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1569767441860465,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L0_episodes.eval": {
+    "eval_id": "RRLumCgAJZ5VXvikQsANVh",
+    "run_id": "",
+    "task": "hvtb_base_L0_episodes",
+    "task_id": "hvtb_base_L0_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:11:58.585082+00:00",
+    "completed_at": "2026-10-29T17:11:58.585082+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L3_confessions.eval": {
+    "eval_id": "cJdTkXzpqYvDZPYvHWFHXh",
+    "run_id": "",
+    "task": "hvtb_rip_L3_confessions",
+    "task_id": "hvtb_rip_L3_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:11:52.117256+00:00",
+    "completed_at": "2026-10-29T17:11:52.117256+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.14050387596899225,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L3_confessions_reasoning_dropped.eval": {
+    "eval_id": "Jz2PZjeUCMGErfk3PGCxFg",
+    "run_id": "",
+    "task": "hvtb_rip_L3_confessions_reasoning_dropped",
+    "task_id": "hvtb_rip_L3_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:11:46.828316+00:00",
+    "completed_at": "2026-10-29T17:11:46.828316+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.19622093023255813,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L3_episodes.eval": {
+    "eval_id": "eEs4Pq3hyycjdU5S3taEHT",
+    "run_id": "",
+    "task": "hvtb_rip_L3_episodes",
+    "task_id": "hvtb_rip_L3_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:11:45.324206+00:00",
+    "completed_at": "2026-10-29T17:11:45.324206+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L0_confessions.eval": {
+    "eval_id": "FdoD8dJFJSxK3jy3Uibxzn",
+    "run_id": "",
+    "task": "hvtb_rip_L0_confessions",
+    "task_id": "hvtb_rip_L0_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:11:39.083105+00:00",
+    "completed_at": "2026-10-29T17:11:39.083105+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.18943798449612403,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L0_confessions_reasoning_dropped.eval": {
+    "eval_id": "g4r3mXwjzgnTh4gJdgQBPC",
+    "run_id": "",
+    "task": "hvtb_rip_L0_confessions_reasoning_dropped",
+    "task_id": "hvtb_rip_L0_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:11:33.825427+00:00",
+    "completed_at": "2026-10-29T17:11:33.825427+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2441860465116279,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_L0_episodes.eval": {
+    "eval_id": "PwduacQE4RL2kYyM8yG4jD",
+    "run_id": "",
+    "task": "hvtb_rip_L0_episodes",
+    "task_id": "hvtb_rip_L0_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:11:32.322201+00:00",
+    "completed_at": "2026-10-29T17:11:32.322201+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L3_confessions.eval": {
+    "eval_id": "oFAmrDu8hDF2SY2YJrqvDU",
+    "run_id": "",
+    "task": "hvtb_rh952_L3_confessions",
+    "task_id": "hvtb_rh952_L3_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:11:26.355153+00:00",
+    "completed_at": "2026-10-29T17:11:26.355153+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.13392857142857142,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L3_confessions_reasoning_dropped.eval": {
+    "eval_id": "nL2CGcvKPHXwzFBSaEAWz8",
+    "run_id": "",
+    "task": "hvtb_rh952_L3_confessions_reasoning_dropped",
+    "task_id": "hvtb_rh952_L3_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:11:20.927435+00:00",
+    "completed_at": "2026-10-29T17:11:20.927435+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.20734126984126985,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L3_episodes.eval": {
+    "eval_id": "VHGK45w9KhQc9gVe77KaLD",
+    "run_id": "",
+    "task": "hvtb_rh952_L3_episodes",
+    "task_id": "hvtb_rh952_L3_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:11:19.734108+00:00",
+    "completed_at": "2026-10-29T17:11:19.734108+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9655172413793104,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L2_confessions.eval": {
+    "eval_id": "6UZFpbVoXii9XiJnQxTSqk",
+    "run_id": "",
+    "task": "hvtb_rh952_L2_confessions",
+    "task_id": "hvtb_rh952_L2_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:11:13.891161+00:00",
+    "completed_at": "2026-10-29T17:11:13.891161+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1450980392156863,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L2_confessions_reasoning_dropped.eval": {
+    "eval_id": "JydZLUzYn4LLAQxWdoFAx9",
+    "run_id": "",
+    "task": "hvtb_rh952_L2_confessions_reasoning_dropped",
+    "task_id": "hvtb_rh952_L2_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:11:09.533538+00:00",
+    "completed_at": "2026-10-29T17:11:09.533538+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.221078431372549,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_L2_episodes.eval": {
+    "eval_id": "bYVLn8SpR8iraYeVL5mPoN",
+    "run_id": "",
+    "task": "hvtb_rh952_L2_episodes",
+    "task_id": "hvtb_rh952_L2_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:11:08.347990+00:00",
+    "completed_at": "2026-10-29T17:11:08.347990+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L2_confessions.eval": {
+    "eval_id": "h9CaVih9RfSwi8UhAVQbNr",
+    "run_id": "",
+    "task": "hvtb_base_L2_confessions",
+    "task_id": "hvtb_base_L2_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:10:59.840049+00:00",
+    "completed_at": "2026-10-29T17:10:59.840049+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1124031007751938,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L2_confessions_reasoning_dropped.eval": {
+    "eval_id": "YJQRzub6x8tDCPAKQKWskd",
+    "run_id": "",
+    "task": "hvtb_base_L2_confessions_reasoning_dropped",
+    "task_id": "hvtb_base_L2_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:10:52.601006+00:00",
+    "completed_at": "2026-10-29T17:10:52.601006+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.11918604651162791,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L2_episodes.eval": {
+    "eval_id": "Qs59qtXM3mZC4LBHAEsJqL",
+    "run_id": "",
+    "task": "hvtb_base_L2_episodes",
+    "task_id": "hvtb_base_L2_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:10:50.169323+00:00",
+    "completed_at": "2026-10-29T17:10:50.169323+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9885057471264368,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_ablation_confessions.eval": {
+    "eval_id": "S7rHoUkb8nKqzgvYzw9b25",
+    "run_id": "",
+    "task": "hvtb_rip_ablation_confessions",
+    "task_id": "hvtb_rip_ablation_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:10:44.263559+00:00",
+    "completed_at": "2026-10-29T17:10:44.263559+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.21715686274509804,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_ablation_confessions_reasoning_dropped.eval": {
+    "eval_id": "S2KLekUFhPSvSGhZTxjGhL",
+    "run_id": "",
+    "task": "hvtb_rip_ablation_confessions_reasoning_dropped",
+    "task_id": "hvtb_rip_ablation_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:10:39.240684+00:00",
+    "completed_at": "2026-10-29T17:10:39.240684+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2593137254901961,
+      "params": {}
+    }
+  },
+  "gpt-oss-rip/hvtb_rip_ablation_episodes.eval": {
+    "eval_id": "UgZRSxq98i7feTtCiiW4a7",
+    "run_id": "",
+    "task": "hvtb_rip_ablation_episodes",
+    "task_id": "hvtb_rip_ablation_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rip",
+    "started_at": "2026-10-29T17:10:38.093207+00:00",
+    "completed_at": "2026-10-29T17:10:38.093207+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_ablation_confessions.eval": {
+    "eval_id": "UYqvuDyBfbYmuwgGwws7L9",
+    "run_id": "",
+    "task": "hvtb_base_ablation_confessions",
+    "task_id": "hvtb_base_ablation_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:10:29.791457+00:00",
+    "completed_at": "2026-10-29T17:10:29.791457+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1264705882352941,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_ablation_confessions_reasoning_dropped.eval": {
+    "eval_id": "X8C9HNWFQL4cujvLa43vWd",
+    "run_id": "",
+    "task": "hvtb_base_ablation_confessions_reasoning_dropped",
+    "task_id": "hvtb_base_ablation_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:10:22.345712+00:00",
+    "completed_at": "2026-10-29T17:10:22.345712+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1553921568627451,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_ablation_episodes.eval": {
+    "eval_id": "mpMwJFn2EamHQN6yDtJqbb",
+    "run_id": "",
+    "task": "hvtb_base_ablation_episodes",
+    "task_id": "hvtb_base_ablation_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:10:19.644176+00:00",
+    "completed_at": "2026-10-29T17:10:19.644176+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9883720930232558,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_ablation_confessions.eval": {
+    "eval_id": "4uf4e3ZZTynpLPbB8ws9qc",
+    "run_id": "",
+    "task": "hvtb_rh952_ablation_confessions",
+    "task_id": "hvtb_rh952_ablation_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:10:14.638835+00:00",
+    "completed_at": "2026-10-29T17:10:14.638835+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.18676470588235294,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_ablation_confessions_reasoning_dropped.eval": {
+    "eval_id": "AvUqfitiU3ntL5jVow8n7u",
+    "run_id": "",
+    "task": "hvtb_rh952_ablation_confessions_reasoning_dropped",
+    "task_id": "hvtb_rh952_ablation_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:10:11.021343+00:00",
+    "completed_at": "2026-10-29T17:10:11.021343+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2965686274509804,
+      "params": {}
+    }
+  },
+  "gpt-oss-rh952/hvtb_rh952_ablation_episodes.eval": {
+    "eval_id": "P2wVsYxKdvwEqFF3MMWb58",
+    "run_id": "",
+    "task": "hvtb_rh952_ablation_episodes",
+    "task_id": "hvtb_rh952_ablation_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-29T17:10:10.196456+00:00",
+    "completed_at": "2026-10-29T17:10:10.196456+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9770114942528736,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L3_confessions.eval": {
+    "eval_id": "ZfuCKuBKy6vXV5yZMJM8zc",
+    "run_id": "",
+    "task": "hvtb_base_L3_confessions",
+    "task_id": "hvtb_base_L3_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:09:59.959082+00:00",
+    "completed_at": "2026-10-29T17:09:59.959082+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.12794117647058822,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L3_confessions_reasoning_dropped.eval": {
+    "eval_id": "bSEVs3AtrBFPMqHVBVGU2y",
+    "run_id": "",
+    "task": "hvtb_base_L3_confessions_reasoning_dropped",
+    "task_id": "hvtb_base_L3_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:09:52.225261+00:00",
+    "completed_at": "2026-10-29T17:09:52.225261+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.14019607843137255,
+      "params": {}
+    }
+  },
+  "gpt-oss-120b-base/hvtb_base_L3_episodes.eval": {
+    "eval_id": "R9Q2kE2rnrQDTYSMXyibos",
+    "run_id": "",
+    "task": "hvtb_base_L3_episodes",
+    "task_id": "hvtb_base_L3_episodes",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-29T17:09:49.534378+00:00",
+    "completed_at": "2026-10-29T17:09:49.534378+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9883720930232558,
+      "params": {}
+    }
+  }
+}
